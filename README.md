@@ -6,14 +6,15 @@ It uses **TypeScript + React**, **Next.js/Vercel** for the front end, **Supabase
 
 ## Features:
 1. Proper separation of Server/Client request via sanitized and rate limited endpoints
-2. OTP-style login
-3. User input sanitation
-4. Boilerplate login screen, auth details collection page, and home page
-5. Boilerplate Terms & Conditions and Privacy Policy pages
-6. Optional analytics integration (Umami)
-7. User context at the top level to minimize repeated useEffect-style calls on components
-8. Uses the modern approach to Next JS focused around the app/ folder but keeps T&C and Priv Pol on pages route for easy deep-linking (this is necessary for a lot of modern SAAS providers)
-9. Custom fonts/custom CSS is all supported, check the public route for fonts and the globals CSS in the web app for how to wrap them
+2. Uses JWT parsing to auth the user on 'authenticated' endpoints for security
+4. OTP-style login
+5. User input sanitation
+6. Boilerplate login screen, auth details collection page, and home page
+7. Boilerplate Terms & Conditions and Privacy Policy pages
+8. Optional analytics integration (Umami)
+9. User context at the top level to minimize repeated useEffect-style calls on components
+10. Uses the modern approach to Next JS focused around the app/ folder but keeps T&C and Priv Pol on pages route for easy deep-linking (this is necessary for a lot of modern SAAS providers)
+11. Custom fonts/custom CSS is all supported, check the public route for fonts and the globals CSS in the web app for how to wrap them
 
 ## Contributions:
 
