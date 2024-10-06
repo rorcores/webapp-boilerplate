@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'univiapro';
+  src: url('/fonts/UniviaPro-Bold.otf') format('opentype');
+}
+
+.custom-font-univiapro {
+  font-family: 'univiapro', sans-serif;
+}
