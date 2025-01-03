@@ -21,7 +21,8 @@ It uses **TypeScript + React**, **Next.js/Vercel** for the front end, **Supabase
 Contributions to this project are welcome by anyone. Please submit a PR into the main branch.
 
 
-![Screenshot 2024-10-06 at 12 05 26 PM](https://github.com/user-attachments/assets/559439b1-f9c5-42eb-a548-be73020284a4)
+<img width="1225" alt="boilerplate new" src="https://github.com/user-attachments/assets/f62cc8f0-8e9c-48fc-8850-9eaae9bd4be5" />
+
 
 ---
 
